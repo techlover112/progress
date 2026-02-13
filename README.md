@@ -5,26 +5,22 @@ In here you can see how far we have progressed with reeshop.
 ## Front end
 
 - [x] Get frontend loaded
-- [ ] Make Rankings work 
+- [x] Make Rankings work 
 - [ ] Have voting system
 - [ ] Proper Search
-- [ ] Get games Loaded properly
+- [ ] Get games loaded properly
+- [ ] Get DLC (maybe passes?) loaded properly
+- [ ] SpotPass???
 
-## SOAP
+## SOAP/Download
 
-- [ ] Proper downloading and games storing
-- [ ] Make ECS work properly
-- [ ] Fix Tickets
+- [ ] Make ECS work properly (fix tickets)
 - [ ] Get IAS and CAS working
-
-## Downloads
-
-- [ ] Get tickets to work
-- [ ] Get custom games to work (not official, may not work)
+- [ ] Get unofficial titles working
 
 ## DB (DataBase)
 
-- [ ] Voting table for storing
+- [ ] Voting table for new content
 - [ ] Proper storing of games
 - [ ] Proper cataloging
 
